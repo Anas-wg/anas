@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'CookieRun-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+            
+.introduce {
+    font-family: 'CookieRun-Regular';
+    text-align: center;
+}
+
+.introduce .arabic {
+    font-family: 'Markazi Text', serif;
+    font-size: 22px;
+}
+
+.sns_area {
+    margin-top: 120px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.sns_area .icon {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.copyright_area{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.copyright_area p {
+    margin:0
+}
+
+.copyright_area a {
+    text-decoration: none;
+    color: black;
+}
+
+.copyright_area .copyr {
+    font-size: 9px;
+}
